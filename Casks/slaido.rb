@@ -1,6 +1,6 @@
 cask "slaido" do
-  version "0.1.0"
-  sha256 "011cb47be1a5edcae83944bc4b461638c0467b7057a9dfaa45e327d2dd80635d"
+  version "0.2.0"
+  sha256 "f6feb354bb97555c7fc94934ab5574e91ea46c6ea0645d9a6b5f6dfe18fa5350"
 
   url "https://github.com/hummer98/slaido/releases/download/v#{version}/slAIdo-v#{version}-macos-arm64.zip"
   name "slAIdo"
